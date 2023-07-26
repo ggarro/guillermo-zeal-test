@@ -16,5 +16,5 @@ Chicho challenge
 
 #### Bonus
 - Can you add support for two mobile carriers? How would you accomplish that?
-- Create a new integration with an external service like Twilio to send and track an SMS.
+- Create a new integration with an external service like Twilio or Infobip to send and track an SMS.
 - Create Unit Tests for this integration using a mock web server or similar.
